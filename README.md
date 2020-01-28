@@ -1,2 +1,2 @@
 # SimpleBoot
-# Intellej Projekt
+# Intellij Projekt
